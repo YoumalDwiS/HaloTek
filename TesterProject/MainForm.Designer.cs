@@ -30,12 +30,13 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
             this.bunifuElipse1 = new Bunifu.Framework.UI.BunifuElipse(this.components);
             this.btnAdmin = new Bunifu.Framework.UI.BunifuTileButton();
             this.btnKasir = new Bunifu.Framework.UI.BunifuTileButton();
             this.btnKepala = new Bunifu.Framework.UI.BunifuTileButton();
             this.btnKeluar = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // bunifuElipse1
@@ -123,11 +124,11 @@
             this.btnKeluar.ColorContrastOnClick = 45;
             this.btnKeluar.ColorContrastOnHover = 45;
             this.btnKeluar.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges6.BottomLeft = true;
-            borderEdges6.BottomRight = true;
-            borderEdges6.TopLeft = true;
-            borderEdges6.TopRight = true;
-            this.btnKeluar.CustomizableEdges = borderEdges6;
+            borderEdges1.BottomLeft = true;
+            borderEdges1.BottomRight = true;
+            borderEdges1.TopLeft = true;
+            borderEdges1.TopRight = true;
+            this.btnKeluar.CustomizableEdges = borderEdges1;
             this.btnKeluar.DialogResult = System.Windows.Forms.DialogResult.None;
             this.btnKeluar.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.btnKeluar.DisabledFillColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
@@ -195,6 +196,16 @@
             this.btnKeluar.UseDefaultRadiusAndThickness = true;
             this.btnKeluar.Click += new System.EventHandler(this.btnKeluar_Click);
             // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.ForeColor = System.Drawing.Color.Black;
+            this.label1.Location = new System.Drawing.Point(811, 152);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(55, 17);
+            this.label1.TabIndex = 8;
+            this.label1.Text = "Youmal";
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -202,6 +213,7 @@
             this.BackgroundImage = global::TesterProject.Properties.Resources.BgMainForm_HaloTek;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.btnKeluar);
             this.Controls.Add(this.btnKepala);
             this.Controls.Add(this.btnKasir);
@@ -212,6 +224,7 @@
             this.Name = "MainForm";
             this.Text = "Form1";
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -221,6 +234,7 @@
         private Bunifu.Framework.UI.BunifuTileButton btnKepala;
         private Bunifu.Framework.UI.BunifuTileButton btnKasir;
         private Bunifu.Framework.UI.BunifuTileButton btnAdmin;
+        private System.Windows.Forms.Label label1;
     }
 }
 
