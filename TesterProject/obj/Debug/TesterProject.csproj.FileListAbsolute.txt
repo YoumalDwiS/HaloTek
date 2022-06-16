@@ -1,0 +1,57 @@
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\TesterProject.exe.config
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\TesterProject.exe
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\TesterProject.pdb
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.csprojAssemblyReference.cache
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.Properties.Resources.resources
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.csproj.GenerateResource.cache
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.exe.licenses
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.csproj.CoreCompileInputs.cache
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.csproj.CopyComplete
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.exe
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.pdb
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.MainForm.resources
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.LoginForm.resources
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.DashAdminForm.resources
+D:\ArizaDR\Project\PRG2 PRG3\TesterProject\TesterProject\obj\Debug\TesterProject.DashKasirForm.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\TesterProject.exe.config
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\TesterProject.exe
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\TesterProject.pdb
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\bin\Debug\Bunifu.UI.WinForms.BunifuTextbox.dll
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.csprojAssemblyReference.cache
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.DashAdminForm.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.DashKasirForm.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.DashKepalaForm.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.LoginForm.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.MainForm.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.Properties.Resources.resources
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.csproj.GenerateResource.cache
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.exe.licenses
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.csproj.CoreCompileInputs.cache
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.csproj.CopyComplete
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.exe
+D:\Projek\PRG2\Eksekusi\TesterProject\TesterProject\obj\Debug\TesterProject.pdb
