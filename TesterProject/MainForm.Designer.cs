@@ -37,6 +37,7 @@
             this.btnKepala = new Bunifu.Framework.UI.BunifuTileButton();
             this.btnKeluar = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.label1 = new System.Windows.Forms.Label();
+            this.label2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // bunifuElipse1
@@ -200,11 +201,21 @@
             // 
             this.label1.AutoSize = true;
             this.label1.ForeColor = System.Drawing.Color.Black;
-            this.label1.Location = new System.Drawing.Point(811, 152);
+            this.label1.Location = new System.Drawing.Point(818, 147);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(55, 17);
             this.label1.TabIndex = 8;
             this.label1.Text = "Youmal";
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.ForeColor = System.Drawing.Color.Black;
+            this.label2.Location = new System.Drawing.Point(879, 147);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(39, 17);
+            this.label2.TabIndex = 9;
+            this.label2.Text = "ariza";
             // 
             // MainForm
             // 
@@ -213,6 +224,7 @@
             this.BackgroundImage = global::TesterProject.Properties.Resources.BgMainForm_HaloTek;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btnKeluar);
             this.Controls.Add(this.btnKepala);
@@ -235,6 +247,7 @@
         private Bunifu.Framework.UI.BunifuTileButton btnKasir;
         private Bunifu.Framework.UI.BunifuTileButton btnAdmin;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Label label2;
     }
 }
 
